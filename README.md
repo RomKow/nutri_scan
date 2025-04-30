@@ -2,11 +2,15 @@
 
 NutriScan is a WhatsApp-based recipe suggestion tool with a web interface for viewing saved recipes.
 
+![Branding](Testbilder/nutri_scan_app.png)
+
 ## Features
 
 - WhatsApp bot that suggests recipes based on ingredients (via text or image)
 - Web interface to view and browse saved recipes
 - Detailed recipe pages with ingredients, instructions, and links to original sources
+
+![Branding](Testbilder/nutri_scan_paper.png)
 
 ## Setup
 
